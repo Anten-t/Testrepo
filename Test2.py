@@ -1,2 +1,1 @@
-print("hello friends")
-ki
+print("hello friends");

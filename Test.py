@@ -1,2 +1,1 @@
-print("Good day baddy")
-ki
+print("Good day baddy");
